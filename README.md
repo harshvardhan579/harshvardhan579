@@ -92,17 +92,6 @@ If you’re building something interesting and need an extra pair of hands, feel
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-
-<!-- Replace YOUR_USERNAME -->
-<img src="https://github-readme-stats.vercel.app/api?username=harshvardhan579&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshvardhan579&layout=compact" height="160" />
-
-</div>
-
----
-
 ## ⚡ Fun Fact
 I enjoy building projects where **AI meets real users**, and I’m always down to ship something end-to-end rather than stopping at a notebook.
 
