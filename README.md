@@ -76,15 +76,12 @@ If you’re building something interesting and need an extra pair of hands, feel
 
 - **🧠 Hybrid ML Scheduler (CPU–GPU)**  
   RL-based scheduler that routes ML tasks across CPU/GPU using FastAPI + Redis + WebSockets to reduce makespan.  
-  🔗 Repo: https://github.com/YOUR_USERNAME/hybrid-ml-scheduler
+  🔗 Repo: https://github.com/harshvardhan579/hybrid-ml-scheduler
 
 - **🏋️ Exercise Form Evaluation App**  
   Computer vision app that analyzes workout videos to compute joint angles and deliver form feedback via an API.  
-  🔗 Repo: https://github.com/YOUR_USERNAME/exercise-form-eval
+  🔗 Repo: https://github.com/harshvardhan579/exercise-form-evaluation 
 
-- **📝 Document AI Platform (Intern Project)**  
-  Full-stack document processing system with OCR + LLM-powered querying, built for high-throughput workflows.  
-  🔗 Repo/Demo: https://github.com/YOUR_USERNAME/document-ai-platform
 
 ---
 
