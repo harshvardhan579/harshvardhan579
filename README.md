@@ -92,12 +92,12 @@ If you’re building something interesting and need an extra pair of hands, feel
 
 ---
 
-## 📊 GitHub Stats (Optional)
+## 📊 GitHub Stats
 <div align="center">
 
 <!-- Replace YOUR_USERNAME -->
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=harshvardhan579&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshvardhan579&layout=compact" height="160" />
 
 </div>
 
@@ -108,5 +108,5 @@ I enjoy building projects where **AI meets real users**, and I’m always down t
 
 <!-- Visitor badge (optional) -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=harshvardhan579&style=flat-square" alt="profile views"/>
 </div>
