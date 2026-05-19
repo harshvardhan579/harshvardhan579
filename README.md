@@ -25,9 +25,14 @@ I’m **Harshvardhan Singh**, an **AI Engineer** who loves turning messy real-wo
 ---
 
 ## 🚧 Current Work / Learning
-- 🏗️ Building an **Exercise Form Evaluation App** using **MediaPipe + OpenCV + FastAPI** (pose tracking → joint angles → actionable feedback)
-- 📚 Learning more about **LLM tooling**, **RAG**, and **agentic workflows**
-- ⚙️ Improving my **distributed systems** and **deployment** skills (Docker, cloud services, CI/CD)
+- 🏗️ Expanding my expertise in **AI & Agent Harness Engineering** (designing structured control systems and deterministic execution environments for reliable AI agents):
+  - **Context Design:** Curating and structuring data via the Model Context Protocol (MCP) to optimize API costs and build persistent knowledge graphs.
+  - **Tool-Loop Design:** Building robust API interfaces and CLI wrappers for deterministic agent execution loops.
+  - **Memory Management:** Implementing state-saving mechanisms to manage agent memory across context resets and long workflows.
+  - **Automated Verification:** Integrating mechanical validation gates, linters, and independent eval models to review outputs safely.
+  - **Sandbox Security:** Setting up secure containerized boundaries and guardrails to safely constrain autonomous systems.
+- 📚 Continuing to explore broader **LLM tooling**, **RAG architectures**, and **agentic workflows**.
+- ⚙️ Improving my **distributed systems** and **deployment** skills (Docker, cloud services, CI/CD).
 
 ---
 
