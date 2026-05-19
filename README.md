@@ -74,13 +74,17 @@ If you’re building something interesting and need an extra pair of hands, feel
 ## 🌟 Featured Projects
 > Swap the links below with your actual repos / demos.
 
+- **🏋️ Exercise Form Evaluation App**  
+  A real-time exercise biomechanics HUD using browser-side WebAssembly pose estimation and WebSockets to detect form faults via dilated TCNs and unsupervised LSTM Autoencoders.
+  🔗 Repo: https://github.com/harshvardhan579/form_eval_app
+
+- **🛡️ NewsVerify OSINT Agent**  
+  An OSINT-powered fact-checking pipeline that validates media authenticity by analyzing image provenance via reverse search (Google Lens) and cross-referencing news cycles using LangChain and GPT-4o.
+  🔗 Repo: https://github.com/harshvardhan579/news_verify
+
 - **🧠 Hybrid ML Scheduler (CPU–GPU)**  
   RL-based scheduler that routes ML tasks across CPU/GPU using FastAPI + Redis + WebSockets to reduce makespan.  
   🔗 Repo: https://github.com/harshvardhan579/hybrid-ml-scheduler
-
-- **🏋️ Exercise Form Evaluation App**  
-  Computer vision app that analyzes workout videos to compute joint angles and deliver form feedback via an API.  
-  🔗 Repo: https://github.com/harshvardhan579/exercise-form-evaluation 
 
 
 ---
@@ -88,13 +92,8 @@ If you’re building something interesting and need an extra pair of hands, feel
 ## 📬 Connect With Me
 - 💼 LinkedIn: https://linkedin.com/in/harshvardhan2  
 - 📧 Email: harshvardhan6970@gmail.com  
-- 🌐 Portfolio: https://hvs-tau.vercel.app/
 
 ---
-
-## ⚡ Fun Fact
-I enjoy building projects where **AI meets real users**, and I’m always down to ship something end-to-end rather than stopping at a notebook.
-
 <!-- Visitor badge (optional) -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=harshvardhan579&style=flat-square" alt="profile views"/>
