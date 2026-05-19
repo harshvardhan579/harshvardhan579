@@ -76,14 +76,17 @@ If you’re building something interesting and need an extra pair of hands, feel
 
 - **🏋️ Exercise Form Evaluation App**  
   A real-time exercise biomechanics HUD using browser-side WebAssembly pose estimation and WebSockets to detect form faults via dilated TCNs and unsupervised LSTM Autoencoders.
+
   🔗 Repo: https://github.com/harshvardhan579/form_eval_app
 
 - **🛡️ NewsVerify OSINT Agent**  
   An OSINT-powered fact-checking pipeline that validates media authenticity by analyzing image provenance via reverse search (Google Lens) and cross-referencing news cycles using LangChain and GPT-4o.
+
   🔗 Repo: https://github.com/harshvardhan579/news_verify
 
 - **🧠 Hybrid ML Scheduler (CPU–GPU)**  
   RL-based scheduler that routes ML tasks across CPU/GPU using FastAPI + Redis + WebSockets to reduce makespan.
+
   🔗 Repo: https://github.com/harshvardhan579/hybrid-ml-scheduler
 
 
