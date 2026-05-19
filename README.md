@@ -83,7 +83,7 @@ If you’re building something interesting and need an extra pair of hands, feel
   🔗 Repo: https://github.com/harshvardhan579/news_verify
 
 - **🧠 Hybrid ML Scheduler (CPU–GPU)**  
-  RL-based scheduler that routes ML tasks across CPU/GPU using FastAPI + Redis + WebSockets to reduce makespan.  
+  RL-based scheduler that routes ML tasks across CPU/GPU using FastAPI + Redis + WebSockets to reduce makespan.
   🔗 Repo: https://github.com/harshvardhan579/hybrid-ml-scheduler
 
 
