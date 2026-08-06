@@ -5,7 +5,7 @@
 ### AI / Software Engineer building applied ML products, backend systems, and polished full-stack demos.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-harshvardhan2-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshvardhan2)
-[![Email](https://img.shields.io/badge/Email-harshvardhan6970%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshvardhan6970@gmail.com)
+[![Email](https://img.shields.io/badge/Email-harshvardhan1singh1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshvardhan1singh1@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-harshvardhan579-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshvardhan579)
 
 </div>
